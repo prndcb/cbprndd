@@ -26,7 +26,6 @@ module.exports = {
 **__Public__**
 - \`${client.config.prefix}banner [membre]\`
 - \`${client.config.prefix}invite [membre]\`
-- \`${client.config.prefix}support\`
 - \`${client.config.prefix}pic [membre]\`
 - \`${client.config.prefix}snipe\`
 - \`${client.config.prefix}ping\`
