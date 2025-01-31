@@ -17,9 +17,6 @@ module.exports = {
 
             const embed = new Discord.MessageEmbed()
 
-            embed.setTitle(`Information à Propos De : ${client.user.username}`)
-            embed.setURL('https://discord.gg/paranoid-x')
-            embed.setDescription('**Une description complète et détaillée du Bot** <@1225087364821684379>')
             embed.setColor(color)
             .setThumbnail(message.author.avatarURL({ dynamic:true }));
             embed.setTimestamp()
